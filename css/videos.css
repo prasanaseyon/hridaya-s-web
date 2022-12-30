@@ -1,0 +1,12 @@
+.r{
+    padding:20px;
+    background-color:rgba(216, 112, 147, 0.377);
+    width:80%;
+    margin:0 auto;
+    margin-top:20px;
+    border-radius:30px;
+}
+
+iframe{
+    margin:20px;
+}
